@@ -12,7 +12,7 @@ This README is my very own Captain's Log, where I'll share my development advent
 <h2 align="center"> 🪚Languages-Frameworks-Tools🪚</h2>
 <br>
 These are the tools, frameworks, and languages I'm actively learning and using in my work💡💥
-<div align="center">
+<div>
  <br>
   <a href="//skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github"><br>
