@@ -1,7 +1,11 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYoussraElmortai&label=Visitors&labelColor=%23ba68c8&countColor=%23d9e3f0&labelStyle=upper">
 <img width="200" alt="picture of youssra elmortai presenting" src="https://github.com/YoussraElmortai/YoussraElmortai/assets/112857270/62e72361-c295-49ce-94a2-4a6a62e7cadf">
 
-<h1>Welcome 👀</h1> 
+# About Me 🖖
+
+Hey there, I'm Youssra Elmortai, a student at the Amsterdam University of Sciences 🎓 and a passionate frontend developer, boldly coding my way through the final frontier of the web 👩‍💻. I'm on a mission to create captivating web experiences that are out of this world ❤️🌌. <br>
+This README is my very own Captain's Log, where I'll share my development adventures and discoveries. Join me on this coding journey🌟🚀
+
 
 <hr>
 <h2 align="center"> 🪚Languages-Frameworks-Tools🪚</h2>
