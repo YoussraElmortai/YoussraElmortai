@@ -1,7 +1,15 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYoussraElmortai&label=Visitors&labelColor=%23ba68c8&countColor=%23d9e3f0&labelStyle=upper">
 
-### Hi there 👋
+<h1>Hi there 👋</h1> 
 
+<hr>
+<h2 align="center"> 🪚Languages-Frameworks-Tools🪚</h2>
+<br>
+<div align="center">
+  <a href="//skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,svelte,vue,figma"><br>
+  </a>
+</div>
 <!--
 **YoussraElmortai/YoussraElmortai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
