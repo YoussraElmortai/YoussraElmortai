@@ -7,8 +7,14 @@
 <br>
 <div align="center">
   <a href="//skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,svelte,vue,figma"><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github"><br>
+    <img src="https://skillicons.dev/icons?i=vscode,svelte,vue,figma">
   </a>
+</div>
+
+<hr>
+<h2 align="center"> 🪚Languages-Frameworks-Tools🪚</h2>
+<br>
 </div>
 <!--
 **YoussraElmortai/YoussraElmortai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
