@@ -22,7 +22,7 @@ These are the tools, frameworks, and languages I'm actively learning and using i
 
 <h2 align="center"> 🌟Favorite projects🌟</h2>
 <br>
- Check out my awesome pinned projects! 😎 these are my all-time faves I've worked on. They're like the coolest crew members on my coding starship Ready to beam up 🚀
+ Check out my awesome pinned projects! 😎 these are my all-time faves I've worked on or am currently working on. They're like the coolest crew members on my coding starship Ready to beam up 🚀
 
 
 
