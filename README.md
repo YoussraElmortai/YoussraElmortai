@@ -12,6 +12,7 @@ This README is my very own Captain's Log, where I'll share my development advent
 <h2 align="center"> 🪚Languages-Frameworks-Tools🪚</h2>
 <br>
 <div align="center">
+These are the tools, frameworks, and languages I'm actively learning and using in my work💡💥 <br>
   <a href="//skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github"><br>
     <img src="https://skillicons.dev/icons?i=vscode,svelte,vue,figma">
@@ -19,10 +20,9 @@ This README is my very own Captain's Log, where I'll share my development advent
 </div>
 
 <h2 align="center"> 🌟Favorite projects🌟</h2>
-Check out these awesome projects! 😎 Here's a handful of my all-time faves I've worked on. They're like the coolest crew members on my coding starship. <br>
-Ready to beam up 🚀
 <br>
 <div align="center">
+  Check out these awesome projects! 😎 Here's a handful of my all-time faves I've worked on. They're like the coolest crew members on my coding starship Ready to beam up 🚀<br>
   <a href="//skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github"><br>
     <img src="https://skillicons.dev/icons?i=vscode,svelte,vue,figma">
