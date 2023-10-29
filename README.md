@@ -22,14 +22,8 @@ These are the tools, frameworks, and languages I'm actively learning and using i
 
 <h2 align="center"> 🌟Favorite projects🌟</h2>
 <br>
- Check out these awesome projects! 😎 Here's a handful of my all-time faves I've worked on. They're like the coolest crew members on my coding starship Ready to beam up 🚀
-<div align="center">
- <br>
-  <a href="//skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github"><br>
-    <img src="https://skillicons.dev/icons?i=vscode,svelte,vue,figma">
-  </a>
-</div>
+ Check out my awesome pinned projects! 😎 these are my all-time faves I've worked on. They're like the coolest crew members on my coding starship Ready to beam up 🚀
+
 
 
 <!--
