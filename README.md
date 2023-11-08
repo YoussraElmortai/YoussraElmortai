@@ -3,7 +3,7 @@
 
 # About Me 🖖
 
-Hey there, I'm Youssra Elmortai, a student at the Amsterdam University of Sciences 🎓 and a passionate frontend developer, boldly coding my way through the final frontier of the web 👩‍💻. I'm on a mission to create captivating web experiences that are out of this world ❤️🌌. <br>
+Hey there, I'm Youssra Elmortai, a student at the Amsterdam University of  Apllied Sciences 🎓 and a passionate frontend developer, boldly coding my way through the final frontier of the web 👩‍💻. I'm on a mission to create captivating web experiences that are out of this world ❤️🌌. <br>
 This README is my very own Captain's Log, where I'll share my development adventures and discoveries. Join me on this coding journey🌟🚀
 
 
