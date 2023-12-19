@@ -16,7 +16,7 @@ These are the tools, frameworks, and languages I'm actively learning and using i
  <br>
   <a href="//skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github"><br>
-    <img src="https://skillicons.dev/icons?i=vscode,svelte,vue,figma">
+    <img src="https://skillicons.dev/icons?i=vscode,svelte,react,vue,figma">
   </a>
 </div>
 
