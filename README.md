@@ -14,8 +14,8 @@ This README is my very own Captain's Log, where I'll share my development advent
 These are the tools, frameworks, and languages I'm actively learning and using in my work💡💥
 <div>
  <br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github"><br>
-    <img src="https://skillicons.dev/icons?i=vscode,svelte,react,vue,figma">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,nodejs,github"><br>
+    <img src="https://skillicons.dev/icons?i=vscode,svelte,react,vue,bootstrap,figma">
 </div>
 
 <h2 align="center"> 🌟Favorite projects🌟</h2>
