@@ -6,8 +6,6 @@
 Hey there, I'm Youssra Elmortai, a frontend developer based in Amsterdam
 
 
-
-<hr>
 <h2 align="center"> 🪚Languages-Frameworks-Tools🪚</h2>
 <br>
 These are the tools, frameworks, and languages I'm actively learning and using in my work💡💥
