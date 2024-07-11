@@ -11,7 +11,7 @@ Hey there, I'm Youssra Elmortai, a frontend developer based in Amsterdam
 These are the tools, frameworks, and languages I'm actively learning and using in my work💡💥
 <div>
  <br>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,nodejs,github"><br>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,nodejs,github,express"><br>
     <img src="https://skillicons.dev/icons?i=vscode,svelte,react,vue,bootstrap,figma">
 </div>
 
