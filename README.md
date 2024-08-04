@@ -17,7 +17,7 @@ These are the tools, frameworks, and languages I'm actively learning and using i
 
 <h2 align="center"> 🌟Favorite projects🌟</h2>
 <br>
- Check out my awesome pinned projects! 😎 these are my all-time faves I've worked on or am currently working on.
+ Check out my awesome pinned projects! 😎
 
 
 
