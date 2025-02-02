@@ -12,7 +12,7 @@ These are the tools, frameworks, and languages I'm actively learning and using i
 <div>
  <br>
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,nodejs,github,express"><br>
-    <img src="https://skillicons.dev/icons?i=vscode,svelte,react,vue,bootstrap,figma">
+    <img src="https://skillicons.dev/icons?i=vscode,svelte,react,vue,bootstrap,figma,php">
 </div>
 
 <h2 align="center"> 🌟Favorite projects🌟</h2>
