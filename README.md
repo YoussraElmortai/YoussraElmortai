@@ -4,7 +4,6 @@
 # About Me 🖖
 
 Hey there, I'm Youssra Elmortai, a frontend developer & Designer based in Amsterdam. <br>
-I love creating fun and interactive websites inspired by different concepts.
 <br>
 <br>
 
