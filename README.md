@@ -3,9 +3,10 @@
 
 # About Me 🖖
 
-Hey there, I'm Youssra Elmortai, a frontend developer based in Amsterdam. <br>
-I love creating fun and interactive websites.
-
+Hey there, I'm Youssra Elmortai, a frontend developer & Designer based in Amsterdam. <br>
+I love creating fun and interactive websites inspired by different concepts.
+<br>
+<br>
 
 <h2 align="center"> 🪚Languages-Frameworks-Tools🪚</h2>
 <br>
@@ -16,10 +17,17 @@ These are the tools, frameworks, and languages I'm actively learning and using i
     <img src="https://skillicons.dev/icons?i=vscode,svelte,react,vue,bootstrap,figma,php">
 </div>
 
-<h2 align="center"> 🌟Favorite projects🌟</h2>
+<h2 align="center"> 🌟Recent Favorite projects🌟</h2>
 <br>
- Check out my awesome pinned projects! 😎 or checkout my portfolio website for a more interactive experience
 
+ Check out my pinned projects! 😎 or checkout my portfolio website for a more interactive experience
+
+<br>
+<br>
+
+
+
+- 🔭 I’m currently working on expanding my portfolio with more fun projects
 
 
 <!--
